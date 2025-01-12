@@ -6,9 +6,9 @@ import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.VBox;
-import javafx.scene.text.Text;
+
 import javafx.stage.Stage;
-import org.controlsfx.control.spreadsheet.Grid;
+
 
 public class GPACalculator extends Application {
     @Override
